@@ -1,4 +1,4 @@
-# Brute-Force-Attack-Detection-using-Splunk# Brute Force Attack Detection using Splunk
+# Brute Force Attack Detection using Splunk
 
 ## 🛡️ Overview
 This project demonstrates how to detect brute-force login attempts using **Splunk SIEM**. 
